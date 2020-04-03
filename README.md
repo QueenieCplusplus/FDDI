@@ -1,7 +1,7 @@
 # FDDI, Fiber Distributed Data Interface
 Fiber Optical Connections in LAN
 
-It is a 100 Mbps token-passing, dual-ring media that uses fiber-optical fiber. It is almost replaced by the Fast Eternet..., 
+It is a 100 Mbps token-passing, dual-ring media that uses fiber-optical fiber. It is eventually replaced by the Fast Eternet.
 
 # Dual-Ring
 
