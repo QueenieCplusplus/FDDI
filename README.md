@@ -9,6 +9,8 @@ it uses 2 ring, one is primaray, and the other is secondary, if primary fails, t
 
 # Constraints to Scale Up
 
+UTP is Unshielded Twisted Pair. This table shows the comparison with Optical Fiber.
+
       +--------------------+---------------------+-----------------------------+
       |                    |        Fiber        |              UTP            |
       +--------------------+---------------------+-----------------------------+
