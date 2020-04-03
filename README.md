@@ -18,3 +18,6 @@ it uses 2 ring, one is primaray, and the other is secondary, if primary fails, t
       +--------------------+---------------------+-----------------------------+
       |Max Network Diameter|         200km       |             200km           |
       +--------------------+---------------------+-----------------------------+
+
+
+
